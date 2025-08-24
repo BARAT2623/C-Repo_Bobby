@@ -1,0 +1,2 @@
+[2025-08-24 01:15:58,860] [ERROR] CollegeApp.Controllers.DemoController - Error occurred here!
+[2025-08-24 01:15:58,887] [FATAL] CollegeApp.Controllers.DemoController - Critical issue!
